@@ -1,2 +1,6 @@
 # GamePygame
-Jeux Vacances tir au pigeon stratégie / pygame : python
+
+Duck shoot game developped with python -> pygame
+
+Contributors:
+Rémi MAIGROT
